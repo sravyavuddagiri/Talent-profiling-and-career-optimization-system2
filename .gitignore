@@ -3,9 +3,9 @@ __pycache__/
 *.pyo
 *.pyd
 
-models/
-*.pkl
-*.joblib
+# models/
+# *.pkl
+# *.joblib
 
 venv/
 .env
